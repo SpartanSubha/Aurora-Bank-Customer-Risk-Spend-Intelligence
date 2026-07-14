@@ -9,7 +9,7 @@
 
 ## 🔗 Live Dashboard
 
-👉 [View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWQzNzExMWYtMzVlNy00NzBiLWFhNjUtMTEyYzM2YTQ1YzJhIiwidCI6IjQyZjRkOWVkLTBiYmItNGU5NS1hYmRjLTM5OGM1M2QzNjkxZCJ9)
+👉 [View Live Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYWQzNzExMWYtMzVlNy00NzBiLWFhNjUtMTEyYzM2YTQ1YzJhIiwidCI6IjQyZjRkOWVkLTBiYmItNGU5NS1hYmRjLTM5OGM1M2QzNjkxZCJ9](https://app.powerbi.com/view?r=eyJrIjoiYWQzNzExMWYtMzVlNy00NzBiLWFhNjUtMTEyYzM2YTQ1YzJhIiwidCI6IjQyZjRkOWVkLTBiYmItNGU5NS1hYmRjLTM5OGM1M2QzNjkxZCJ9&pageName=9e32f33b4754dab4d229))
 
 ---
 
